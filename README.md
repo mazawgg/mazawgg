@@ -30,9 +30,8 @@
 
 ### 📊 Statistik GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mazawgg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![Bahasa Terbanyak](https://vercel.app)](https://github.com/mazawgg)
+
 
 ---
 
